@@ -4,7 +4,7 @@ My Expenses keeps track of your expenses and your income, directly on your smart
 - Unlimited number of <b>templates</b> and up to three plans for <b>recurring</b> transactions
 - Transactions can be <b>grouped</b> (per day, week, month and year) and <b>filtered</b>
 - <b>Export</b> to QIF and CSV. <b>Import</b> from QIF
-- Data can be protected by <b>password</b>
+- Data can be protected using a <b>password</b>
 - <b>Theme</b> (dark and light) and <b>font size</b> can be customized
 - <b>Reconciliation</b>: Easily compare transaction status with your bank statements
 - Homescreen <b>widget</b> and <b>shortcuts</b> for quick data entry
